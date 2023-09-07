@@ -89,10 +89,9 @@ ruby fileName.rb
 
 ## 👥 Authors: <a name="authors"></a>
 
-👤 MD. Nohain Islam
+👤 ClarenceAtim
 - GitHub: [&nbsp; &nbsp; @githubhandle] (https://github.com/ClarenceAtim?tab=repositories)
-- Twitter: [&nbsp; &nbsp; @twitterhandle](https://twitter.com/i/flow/login?redirect_after_login=%2FBlissTecla)
-- LinkedIn: [&nbsp; LinkedIn](https://www.linkedin.com/in/tegum-clarence-615b58200/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
