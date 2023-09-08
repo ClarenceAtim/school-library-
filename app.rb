@@ -1,8 +1,8 @@
 require_relative 'person'
 require_relative 'book'
 require_relative 'rental'
-require_relative 'teacher'
-require_relative 'students'
+require_relative 'teachers'
+require_relative 'student'
 
 class App
   def initialize
