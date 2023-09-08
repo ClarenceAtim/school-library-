@@ -15,7 +15,6 @@ and ll of this are built in a beautiful and well-organized way!
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
@@ -109,7 +108,7 @@ ruby fileName.rb
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
-Feel free to check the <a href="https://github.com/ClarenceAtim/school-library-/issuesa">Issues</a>.
+Feel free to check the <a href="https://github.com/ClarenceAtim/school-library-/issues">Issues</a>.
 
 <!-- SUPPORT -->
 
